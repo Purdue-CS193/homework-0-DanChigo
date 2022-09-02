@@ -1,5 +1,9 @@
 ## Welcome to Danielle Land
+I'm a CS Novice! But I love it so far!
 
+I'm new to github and usually use replit
+
+Enjoy this picture of Rihanna.
 
 ![This is an image](https://upload.wikimedia.org/wikipedia/commons/c/c2/Rihanna_Fenty_2018.png)
 
@@ -24,11 +28,6 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-I'm a CS Novice! But I love it so far!
-
-I'm new to github and usually use replit
-
-Enjoy this picture of Rihanna.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
