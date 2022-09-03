@@ -1,11 +1,9 @@
-## Welcome to Danielle Land
-I'm a CS Novice! But I love it so far!
+## Danielle Ejiogu's First CS193 Homework
 
-I'm new to github and usually use replit
-
-Enjoy this picture of Rihanna.
-
-![This is an image](https://upload.wikimedia.org/wikipedia/commons/c/c2/Rihanna_Fenty_2018.png)
+#Danielle's First CS 193 Homework
+-I like that I'm learning how to use github (I never really understood it)
+-I like that I'm gaining access and knowledge about new helpful resoruces
+-I like that its taught by other students
 
 
 
